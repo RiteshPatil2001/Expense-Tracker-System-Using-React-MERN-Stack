@@ -43,7 +43,7 @@ This Expense Tracker System is built using the MERN stack (MongoDB, Express.js, 
 
 4. Install the required packages:
     ```bash
-    npm install requirement.txt
+    npm install requirements.txt
     ```
 
 5. Run the Weather App:
