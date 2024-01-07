@@ -1,0 +1,218 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.content {
+  min-height: 95vh;
+  max-height: fit-content;
+}
+
+.text-center {
+  padding: 5px;
+}
+body{
+height: 100%;
+}
+
+/* RegistrationPage.css */
+.register-loading{
+  margin: 0vh 80vh 0;
+  align-items: center;
+  justify-content: center;
+  height: 10vh;
+}
+.register-page {
+  min-width: 500px;
+  align-items: center;
+  justify-content: center;
+  height: 75vh;
+  margin: 0 700px;
+  padding: 30px;
+  border-radius: 40px;
+  background-color: rgb(255, 255, 255);
+  opacity: 0.9;
+}
+.register-page h1 {
+  color: #333;
+  font-size: 34px;
+  padding-bottom: 20px;
+}
+.register-page .btn-primary {
+  background-color: #6db8ea;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+}
+.register-page .btn-primary:hover{
+  background-color: #0e7ac2;
+  color: white;
+  cursor: pointer;
+}
+.register-page input {
+  color: #333;
+  font-size: 14px;
+  padding: 10px;
+}
+.register-page a{
+  text-decoration: none;
+}
+.register-page a:hover{
+  text-decoration: none;
+  color: green;
+}
+.register{
+  background-image: url('https://miro.medium.com/v2/resize:fit:2000/0*lIqiAYsNDdKmh4ij');
+  height: 100vh;
+}
+/* RegistrationPage.css */
+
+
+
+/* LoginPage.css */
+.login-content{
+  display: flex;
+  flex-direction: row;
+  padding-left: 200px;
+}
+.imagecontainer img{
+  border-left: 1px solid black;
+  border-top: 1px solid black;
+  border-bottom: 1px solid black;
+  border-top-left-radius: 50px;
+}
+.login-loading{
+  margin: 10vh 80vh 0;
+  align-items: center;
+  justify-content: center;
+  height: 10vh;
+}
+.login-page {
+  max-width: 500px;
+  min-width: 500px;
+  align-items: center;
+  justify-content: center;
+  height: 60.9vh;
+  padding: 40px;
+  border-right: 1px solid black;
+  border-top: 1px solid black;
+  border-bottom: 1px solid black;
+  border-bottom-right-radius: 50px;
+  background-color: rgb(255, 255, 255);
+}
+.login-page h1 {
+  color: #333;
+  font-size: 34px;
+  padding-bottom: 30px;
+}
+.login-page .btn-primary {
+  background-color: #6db8ea;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+}
+.login-page .btn-primary:hover{
+  background-color: #0e7ac2;
+  color: white;
+  cursor: pointer;
+}
+.login-page input {
+  color: #333;
+  font-size: 14px;
+  padding: 10px;
+}
+
+.login-page a{
+  text-decoration: none;
+}
+.login-page a:hover{
+  text-decoration: none;
+  color: green;
+}
+/* LoginPage.css */
+
+
+
+/* antd icons */
+.anticon svg{
+  font-size: 20px;
+  cursor: pointer;
+}
+.active-icon{
+  color: black;
+}
+.inactive-icon{
+  color: gray;
+}
+.switched-icons{
+  border: 1px solid rgba(0, 0, 0, 0.677);
+  border-radius: 5px;
+  padding: 10px 15px;
+}
+/* antd icons */
+
+
+
+/* home page */
+.homePage-Loading{
+  margin: 0 80vh 0;
+  padding-top: 10px;
+  align-items: center;
+  justify-content: center;
+  height: 8vh;
+}
+
+.filters{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 15px 20px;
+  box-shadow: 0 0 3px gray;
+  width: 95%;
+  margin-left: 30px;
+  margin-bottom: 5px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+	box-shadow: 0 0px 0px 0 rgba(0,0,0,0.34), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
+
+.content-table{
+  width: 95%;
+  margin-left: 30px;
+  border: 1px solid;
+  text-align: center;
+  background-color: white;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+	box-shadow: 0 48px 48px 0 rgba(0,0,0,0.34), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
+.analytics-table{
+  background-color: white;
+}
+/* home page */
+
+/* navbar */
+#navbarTogglerDemo01{
+  padding-right: 30px;
+}
+.item1{
+  padding-right: 20px;
+  font-weight: bolder;
+  font-size: 20px;
+}
+.item2{
+  padding-top: 5px;
+}
+.navbar {
+  background-color: bisque !important;
+}
+.navbar-brand {
+  margin-left: 7px;
+  font-weight: bolder;
+  font-size: 25px;
+}
+.header-logo{
+  height: 40px;
+  width: 40px;
+  margin-left: 20px;
+}
+/* navbar */
