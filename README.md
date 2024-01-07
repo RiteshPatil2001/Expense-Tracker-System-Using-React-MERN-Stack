@@ -65,9 +65,9 @@ This Expense Tracker System is built using the MERN stack (MongoDB, Express.js, 
 
 
 ## Screenshots
-![Expense1](https://github.com/RiteshPatil2001/Expense-Tracker-System-Using-React-MERN-Stack/assets/111746931/498cddb1-b829-4af2-9832-ed845b1a4d66)
-![Expense2](https://github.com/RiteshPatil2001/Expense-Tracker-System-Using-React-MERN-Stack/assets/111746931/533a6fa0-1000-4c72-bd1e-42b9907b592c)
-![Expense3](https://github.com/RiteshPatil2001/Expense-Tracker-System-Using-React-MERN-Stack/assets/111746931/6890413c-78b8-4b2d-b95d-2b47bc1e8a08)
+![Expense1](https://github.com/RiteshPatil2001/Expense-Tracker-System-Using-React-MERN-Stack/assets/111746931/c86bd602-c146-4d17-b34b-ca3b723d82a6)
+![Expense2](https://github.com/RiteshPatil2001/Expense-Tracker-System-Using-React-MERN-Stack/assets/111746931/b8fc9eca-299f-4665-a1d3-269377ff81f9)
+![Expense3](https://github.com/RiteshPatil2001/Expense-Tracker-System-Using-React-MERN-Stack/assets/111746931/03011eab-3795-4f77-a036-ce10ec32161b)
 
 
 
